@@ -1,0 +1,66 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Nanoux\\Desktop\\Nanowheel\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Nanoux\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.2.aar\\c240e59d683f77215da10f3fb309e047\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,19,32,33,34,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1277,2079,2206,2311,2426,2533",
+                        "endLines": "2,3,4,5,18,31,32,33,34,35,36",
+                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
+                        "endOffsets": "185,320,395,482,1272,2074,2201,2306,2421,2528,2641"
+                    },
+                    "to": {
+                        "startLines": "44,45,46,47,48,61,74,75,76,77,78",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2402,2537,2672,2747,2834,3624,4426,4553,4658,4773,4880",
+                        "endLines": "44,45,46,47,60,73,74,75,76,77,78",
+                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
+                        "endOffsets": "2532,2667,2742,2829,3619,4421,4548,4653,4768,4875,4988"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Nanoux\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-1.0.0.aar\\eebff9257f0699c8e0825bdf282ad718\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "79",
+                        "startColumns": "4",
+                        "startOffsets": "4993",
+                        "endLines": "81",
+                        "endColumns": "12",
+                        "endOffsets": "5138"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Nanoux\\Desktop\\Nanowheel\\app\\src\\main\\res\\values-v23\\styles.xml",
+                    "from": {
+                        "startLines": "25,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "1254,59",
+                        "endLines": "45,23",
+                        "endColumns": "12,12",
+                        "endOffsets": "2444,1246"
+                    },
+                    "to": {
+                        "startLines": "2,23",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,1230",
+                        "endLines": "22,43",
+                        "endColumns": "12,12",
+                        "endOffsets": "1225,2397"
+                    }
+                }
+            ]
+        }
+    ]
+}

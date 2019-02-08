@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.Light" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorAccentTrans">@color/colorAccentTrans</item>
+
+        <item name="backgroundColor">@color/white</item>
+        <item name="dividerColor">@color/colorDivider</item>
+        <item name="colorPrimaryText">@color/text_color_primary</item>
+        <item name="colorSecondaryText">@color/text_color_secondary</item>
+
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:statusBarColor">@color/colorTransparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:colorBackground">@color/white</item>
+        <item name="android:textColorPrimary">@color/text_color_primary</item>
+        <item name="android:textColorSecondary">@color/text_color_secondary</item>
+
+        <item name="preferenceTheme">@style/PreferenceThemeOverlay</item>
+    </style>
+
+    <style name="AppTheme.Dark" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryD</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkD</item>
+        <item name="colorAccent">@color/colorAccentD</item>
+        <item name="colorAccentTrans">@color/colorAccentTransD</item>
+
+        <item name="backgroundColor">@color/black</item>
+        <item name="dividerColor">@color/colorDividerD</item>
+        <item name="colorPrimaryText">@color/text_color_primaryD</item>
+        <item name="colorSecondaryText">@color/text_color_secondaryD</item>
+
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:statusBarColor">@color/colorTransparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:colorBackground">@color/black</item>
+        <item name="android:textColorPrimary">@color/text_color_primaryD</item>
+        <item name="android:textColorSecondary">@color/text_color_secondaryD</item>
+
+        <item name="preferenceTheme">@style/PreferenceThemeOverlay</item>
+    </style>
+
+</resources>

@@ -1,0 +1,7 @@
+#Fri Feb 08 02:25:04 MST 2019
+base.0=C\:\\Users\\Nanoux\\Desktop\\Nanowheel\\app\\build\\intermediates\\dex\\freeDebug\\mergeExtDexFreeDebug\\out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\Nanoux\\Desktop\\Nanowheel\\app\\build\\intermediates\\dex\\freeDebug\\mergeProjectDexFreeDebug\\out

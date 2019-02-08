@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <data xmlns:android="http://schemas.android.com/apk/res/android">
+        <import type="android.databinding.ObservableArrayList" />
+        <import type="android.view.View" />
+        <import type="com.nanowheel.nanoux.nanowheel.model.OWDevice" />
+        <variable
+            name="owdevice"
+            type="com.nanowheel.nanoux.nanowheel.model.OWDevice"
+            android:layout_height="wrap_content" />
+    </data>-->
+
+<RelativeLayout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/frameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:tag="SYSTEM_UI_FLAG_LIGHT_NAVIGATION_BAR"
+        tools:ignore="RtlHardcoded">
+
+
+        <!-- Main content -->
+        <FrameLayout
+            android:id="@+id/fragment_container"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginBottom="56dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+
+        </FrameLayout>
+
+        <com.google.android.material.bottomnavigation.BottomNavigationView
+            android:id="@+id/bottom_navigation"
+            style="@style/Widget.MaterialComponents.BottomNavigationView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/backgroundColor"
+            android:elevation="20dp"
+            app:itemIconTint="?attr/colorAccent"
+            app:itemTextColor="?attr/colorAccent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:menu="@menu/bottom_bar" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <RelativeLayout
+        android:id="@+id/disclaimer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="?attr/backgroundColor"/>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="40dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Disclaimer"
+                android:layout_marginBottom="30dp"
+                android:textSize="25sp"
+                android:textColor="?attr/colorPrimaryText"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="This app collects data from your phone and Onewheel in order to display and analyze it. The data never leaves this phone or even this app unless the user does so themselves. Data collected includes:"
+                android:textSize="16sp"
+                android:layout_marginBottom="10dp"
+                android:textColor="?attr/colorPrimaryText"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Onewheel Telemetry"
+                android:textSize="16sp"
+                android:textColor="?attr/colorPrimaryText"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="(Speed, Mileage, Bluetooth Adresses, Etc.)"
+                android:textSize="16sp"
+                android:layout_marginBottom="10dp"
+                android:textColor="?attr/colorPrimaryText"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Phone Settings &amp; Hardware Data"
+                android:textSize="16sp"
+                android:layout_marginBottom="10dp"
+                android:textColor="?attr/colorPrimaryText"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Location, for Bluetooth Connection"
+                android:textSize="16sp"
+                android:layout_marginBottom="30dp"
+                android:textColor="?attr/colorPrimaryText"/>
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/disclaimer_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Accept"/>
+
+
+
+
+        </LinearLayout>
+
+        </ScrollView>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/geminidisclaimer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="?attr/backgroundColor"/>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="40dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Gemini Disclaimer"
+                android:layout_marginBottom="30dp"
+                android:textSize="25sp"
+                android:textColor="?attr/colorPrimaryText"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Future Motion recently rolled out a firmware update for Onewheel+ and Onewheel+ XR. If you didn't know this or haven't installed it yet, connect your board to the official Onewheel app and a dialog should appear. Sorry, Its illegal to redistribute that firmware in this app.\n \n If you don't upgrade, things may break horribly. The app should still work ok, but it is not tested. Proceed at your own risk. \n \n If you don't know what version you have, connect to the official app and check your firmware version under 'Board Settings'. If it says 'Gemini - 4034', you're set!"
+                android:textSize="16sp"
+                android:layout_marginBottom="30dp"
+                android:textColor="?attr/colorPrimaryText"/>
+
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/gemini_disclaimer_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Accept"/>
+
+
+
+
+        </LinearLayout>
+
+        </ScrollView>
+
+    </RelativeLayout>
+</RelativeLayout>
+<!--</layout>-->

@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Nanoux\\Desktop\\Nanowheel\\app\\build\\intermediates\\incremental\\mergeProDebugResources\\merged.dir\\values-v28\\values-v28.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Nanoux\\Desktop\\Nanowheel\\app\\src\\main\\res\\values-v28\\styles.xml",
+                    "from": {
+                        "startLines": "27,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "1388,57",
+                        "endLines": "49,25",
+                        "endColumns": "12,12",
+                        "endOffsets": "2715,1380"
+                    },
+                    "to": {
+                        "startLines": "2,25",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,1365",
+                        "endLines": "24,47",
+                        "endColumns": "12,12",
+                        "endOffsets": "1360,2666"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Nanoux\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.2.aar\\c240e59d683f77215da10f3fb309e047\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    },
+                    "to": {
+                        "startLines": "48,49,50,54",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2671,2746,2833,3063",
+                        "endLines": "48,49,53,57",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "2741,2828,3058,3300"
+                    }
+                }
+            ]
+        }
+    ]
+}

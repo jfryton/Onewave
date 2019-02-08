@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Nanoux\\Desktop\\Nanowheel\\app\\build\\intermediates\\incremental\\mergeProDebugResources\\merged.dir\\values-v26\\values-v26.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Nanoux\\Desktop\\Nanowheel\\app\\src\\main\\res\\values-v26\\styles.xml",
+                    "from": {
+                        "startLines": "27,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "1325,59",
+                        "endLines": "48,24",
+                        "endColumns": "12,12",
+                        "endOffsets": "2584,1315"
+                    },
+                    "to": {
+                        "startLines": "2,24",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,1298",
+                        "endLines": "23,45",
+                        "endColumns": "12,12",
+                        "endOffsets": "1293,2533"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Nanoux\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.2.aar\\c240e59d683f77215da10f3fb309e047\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,431,657,896",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,426,652,891,984"
+                    },
+                    "to": {
+                        "startLines": "46,47,48,52,56,60",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "2538,2613,2700,2914,3140,3379",
+                        "endLines": "46,47,51,55,59,60",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "2608,2695,2909,3135,3374,3467"
+                    }
+                }
+            ]
+        }
+    ]
+}
