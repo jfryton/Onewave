@@ -6,11 +6,11 @@ of doing anything about it, so it lives here now.
 
 Features:
 
-Widget
-Notifications
-Material Design UI
-Custom Shaping Support
-Runs in a Foreground Service
+Widget  
+Notifications  
+Material Design UI  
+Custom Shaping Support  
+Runs in a Foreground Service  
 
 I havent decieded what the hell to do with the paid version yet, I'll either make it free & open source as well, let it die, or
 do a patreon thing if enough people want it to continue existing.
