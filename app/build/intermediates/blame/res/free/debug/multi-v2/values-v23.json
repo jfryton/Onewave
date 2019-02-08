@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Nanoux\\Desktop\\Nanowheel\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\Nanoux\\Documents\\Android\\Onewave\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Nanoux\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.2.aar\\c240e59d683f77215da10f3fb309e047\\res\\values-v23\\values-v23.xml",
@@ -23,6 +23,25 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\Nanoux\\Documents\\Android\\Onewave\\app\\src\\main\\res\\values-v23\\styles.xml",
+                    "from": {
+                        "startLines": "25,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "1254,59",
+                        "endLines": "45,23",
+                        "endColumns": "12,12",
+                        "endOffsets": "2444,1246"
+                    },
+                    "to": {
+                        "startLines": "2,23",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,1230",
+                        "endLines": "22,43",
+                        "endColumns": "12,12",
+                        "endOffsets": "1225,2397"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Nanoux\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-1.0.0.aar\\eebff9257f0699c8e0825bdf282ad718\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
@@ -39,25 +58,6 @@
                         "endLines": "81",
                         "endColumns": "12",
                         "endOffsets": "5138"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Nanoux\\Desktop\\Nanowheel\\app\\src\\main\\res\\values-v23\\styles.xml",
-                    "from": {
-                        "startLines": "25,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "1254,59",
-                        "endLines": "45,23",
-                        "endColumns": "12,12",
-                        "endOffsets": "2444,1246"
-                    },
-                    "to": {
-                        "startLines": "2,23",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,1230",
-                        "endLines": "22,43",
-                        "endColumns": "12,12",
-                        "endOffsets": "1225,2397"
                     }
                 }
             ]

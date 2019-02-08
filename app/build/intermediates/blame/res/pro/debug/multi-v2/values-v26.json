@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Nanoux\\Desktop\\Nanowheel\\app\\build\\intermediates\\incremental\\mergeProDebugResources\\merged.dir\\values-v26\\values-v26.xml",
+            "outputFile": "C:\\Users\\Nanoux\\Documents\\Android\\Onewave\\app\\build\\intermediates\\incremental\\mergeProDebugResources\\merged.dir\\values-v26\\values-v26.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Nanoux\\Desktop\\Nanowheel\\app\\src\\main\\res\\values-v26\\styles.xml",
+                    "source": "C:\\Users\\Nanoux\\Documents\\Android\\Onewave\\app\\src\\main\\res\\values-v26\\styles.xml",
                     "from": {
                         "startLines": "27,3",
                         "startColumns": "4,4",

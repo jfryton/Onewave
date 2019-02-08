@@ -1,1 +1,1 @@
-{"mName":"config","mStoreFile":"C:\\Users\\Nanoux\\Documents\\Android\\nanowheelKey.jks","mStorePassword":"aschmowithashow","mKeyAlias":"key0","mKeyPassword":"aschmowithashow","mStoreType":"jks","mV1SigningEnabled":true,"mV2SigningEnabled":true}
+{"mName":"debug","mStoreFile":"C:\\Users\\Nanoux\\.android\\debug.keystore","mStorePassword":"android","mKeyAlias":"AndroidDebugKey","mKeyPassword":"android","mStoreType":"jks","mV1SigningEnabled":true,"mV2SigningEnabled":true}

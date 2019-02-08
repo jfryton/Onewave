@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:2:1-48:12
-MERGED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:2:1-48:12
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:2:1-48:12
+MERGED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:2:1-48:12
 MERGED from [androidx.databinding:databinding-adapters:3.3.0] C:\Users\Nanoux\.gradle\caches\transforms-1\files-1.1\databinding-adapters-3.3.0.aar\19797260cd4642879ee8d74193a92c14\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:3.3.0] C:\Users\Nanoux\.gradle\caches\transforms-1\files-1.1\databinding-runtime-3.3.0.aar\2f2095842f7468e1b13b3548b131c030\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Nanoux\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\31ee155f95a848bd557fc87a58c8c4b5\AndroidManifest.xml:2:1-11:12
@@ -55,68 +55,68 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nanoux\.gradle\c
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nanoux\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\d6225d307a8f4a8d9a1247bc32702d32\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nanoux\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\b70d4ac129a6cfb0282939d35198c262\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Nanoux\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\efd540eebf580298df4c97cd3e5f1f91\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml:2:1-66:12
-INJECTED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml:2:1-66:12
-INJECTED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml:2:1-66:12
 	package
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:4:5-45
-		INJECTED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:4:5-45
+		INJECTED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:2:1-48:12
-		INJECTED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml
+		INJECTED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:3:5-51
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:2:1-48:12
-		INJECTED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml
+		INJECTED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:2:11-69
 uses-feature#android.hardware.bluetooth_le
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:6:5-8:35
-MERGED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:6:5-8:35
-MERGED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:6:5-8:35
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:6:5-8:35
+MERGED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:6:5-8:35
+MERGED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:6:5-8:35
 	android:required
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:8:9-32
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:8:9-32
 	android:name
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:7:9-53
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:7:9-53
 uses-permission#android.permission.BLUETOOTH
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:10:5-68
-MERGED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:10:5-68
-MERGED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:10:5-68
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:10:5-68
+MERGED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:10:5-68
+MERGED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:10:5-68
 	android:name
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:10:22-65
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:10:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:11:5-74
-MERGED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:11:5-74
-MERGED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:11:5-74
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:11:5-74
+MERGED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:11:5-74
+MERGED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:11:5-74
 	android:name
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:11:22-71
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:11:22-71
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:12:5-81
-MERGED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:12:5-81
-MERGED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:12:5-81
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:12:5-81
+MERGED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:12:5-81
+MERGED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:12:5-81
 	android:name
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:12:22-78
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:12:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:13:5-79
-MERGED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:13:5-79
-MERGED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:13:5-79
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:13:5-79
+MERGED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:13:5-79
+MERGED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:13:5-79
 	android:name
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:13:22-76
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:13:22-76
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:14:5-77
-MERGED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:14:5-77
-MERGED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:14:5-77
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:14:5-77
+MERGED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:14:5-77
+MERGED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:14:5-77
 	android:name
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:14:22-74
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:14:22-74
 application
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:16:5-46:19
-MERGED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:16:5-46:19
-MERGED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:16:5-46:19
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:16:5-46:19
+MERGED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:16:5-46:19
+MERGED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:16:5-46:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Nanoux\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\31ee155f95a848bd557fc87a58c8c4b5\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Nanoux\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\31ee155f95a848bd557fc87a58c8c4b5\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Nanoux\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.0.0.aar\793123338b1a3322ccfada82629afeac\AndroidManifest.xml:30:5-20
@@ -144,74 +144,74 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Na
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.1] C:\Users\Nanoux\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\2589aee1c6e82983a0281c39eb7d0297\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:19:9-35
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:19:9-35
 	android:label
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:18:9-41
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:18:9-41
 	android:roundIcon
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml:19:9-54
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml:19:9-54
 	tools:ignore
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:21:9-48
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:21:9-48
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:21:9-48
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:21:9-48
 	android:icon
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml:17:9-43
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml:17:9-43
 	android:allowBackup
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:17:9-35
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:17:9-35
 	android:theme
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:20:9-46
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:20:9-46
 activity#com.nanowheel.nanoux.nanowheel.SplashActivity
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:22:9-29:20
-MERGED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:22:9-29:20
-MERGED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:22:9-29:20
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:22:9-29:20
+MERGED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:22:9-29:20
+MERGED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:22:9-29:20
 	android:theme
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:24:13-56
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:24:13-56
 	android:name
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:23:13-43
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:23:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:25:13-28:29
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:25:13-28:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:26:17-69
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:26:17-69
 	android:name
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:26:25-66
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:26:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:27:17-77
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:27:27-74
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:27:27-74
 activity#com.nanowheel.nanoux.nanowheel.MainActivity
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:30:9-34:20
-MERGED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:30:9-34:20
-MERGED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:30:9-34:20
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:30:9-34:20
+MERGED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:30:9-34:20
+MERGED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:30:9-34:20
 	android:theme
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:32:13-50
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:32:13-50
 	android:name
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:31:13-41
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:31:13-41
 service#com.nanowheel.nanoux.nanowheel.util.BluetoothService
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:36:9-38:72
-MERGED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:36:9-38:72
-MERGED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:36:9-38:72
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:36:9-38:72
+MERGED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:36:9-38:72
+MERGED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:36:9-38:72
 	android:permission
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:38:13-69
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:38:13-69
 	android:name
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:37:13-50
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:37:13-50
 receiver#com.nanowheel.nanoux.nanowheel.util.BroadcastReciever
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:40:9-45:20
-MERGED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:40:9-45:20
-MERGED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:40:9-45:20
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:40:9-45:20
+MERGED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:40:9-45:20
+MERGED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:40:9-45:20
 	android:name
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:40:19-57
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:40:19-57
 intent-filter#action:name:com.nanowheel.nanoux.nanowheel.BLUETOOTH_CANCEL+action:name:com.nanowheel.nanoux.nanowheel.LIGHTS
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:41:13-44:29
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:41:13-44:29
 action#com.nanowheel.nanoux.nanowheel.BLUETOOTH_CANCEL
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:42:17-90
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:42:17-90
 	android:name
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:42:25-87
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:42:25-87
 action#com.nanowheel.nanoux.nanowheel.LIGHTS
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:43:17-80
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:43:17-80
 	android:name
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml:43:25-77
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml:43:25-77
 uses-sdk
-INJECTED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:databinding-adapters:3.3.0] C:\Users\Nanoux\.gradle\caches\transforms-1\files-1.1\databinding-adapters-3.3.0.aar\19797260cd4642879ee8d74193a92c14\AndroidManifest.xml:22:5-44
 MERGED from [androidx.databinding:databinding-adapters:3.3.0] C:\Users\Nanoux\.gradle\caches\transforms-1\files-1.1\databinding-adapters-3.3.0.aar\19797260cd4642879ee8d74193a92c14\AndroidManifest.xml:22:5-44
 MERGED from [androidx.databinding:databinding-runtime:3.3.0] C:\Users\Nanoux\.gradle\caches\transforms-1\files-1.1\databinding-runtime-3.3.0.aar\2f2095842f7468e1b13b3548b131c030\AndroidManifest.xml:22:5-44
@@ -312,46 +312,46 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nanoux\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\b70d4ac129a6cfb0282939d35198c262\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\Nanoux\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\efd540eebf580298df4c97cd3e5f1f91\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\Nanoux\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\efd540eebf580298df4c97cd3e5f1f91\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml
-INJECTED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml
+INJECTED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml
+INJECTED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml
+		INJECTED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml
+		INJECTED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml
 receiver#com.nanowheel.nanoux.nanowheel.WidgetBatteryBar
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml:36:9-46:20
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml:36:9-46:20
 	android:label
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml:37:13-40
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml:37:13-40
 	android:name
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml:36:19-50
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml:36:19-50
 intent-filter#action:name:android.appwidget.action.APPWIDGET_BINDSERVICE+action:name:android.appwidget.action.APPWIDGET_UPDATE
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml:38:13-41:29
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml:38:13-41:29
 action#android.appwidget.action.APPWIDGET_UPDATE
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml:39:17-84
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml:39:17-84
 	android:name
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml:39:25-81
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml:39:25-81
 action#android.appwidget.action.APPWIDGET_BINDSERVICE
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml:40:17-89
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml:40:17-89
 	android:name
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml:40:25-86
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml:40:25-86
 meta-data#android.appwidget.provider
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml:43:13-45:70
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml:43:13-45:70
 	android:resource
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml:45:17-67
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml:45:17-67
 	android:name
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml:44:17-58
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml:44:17-58
 activity#com.nanowheel.nanoux.nanowheel.WidgetBatteryBarConfigureActivity
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml:48:9-52:20
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml:48:9-52:20
 	android:name
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml:48:19-67
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml:48:19-67
 intent-filter#action:name:android.appwidget.action.APPWIDGET_CONFIGURE
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml:49:13-51:29
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml:49:13-51:29
 action#android.appwidget.action.APPWIDGET_CONFIGURE
-ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml:50:17-87
+ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml:50:17-87
 	android:name
-		ADDED from C:\Users\Nanoux\Desktop\Nanowheel\app\src\free\AndroidManifest.xml:50:25-84
+		ADDED from C:\Users\Nanoux\Documents\Android\Onewave\app\src\free\AndroidManifest.xml:50:25-84
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Nanoux\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.0.0.aar\793123338b1a3322ccfada82629afeac\AndroidManifest.xml:23:5-79
 	android:name

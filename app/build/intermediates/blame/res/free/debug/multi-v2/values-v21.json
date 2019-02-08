@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Nanoux\\Desktop\\Nanowheel\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "C:\\Users\\Nanoux\\Documents\\Android\\Onewave\\app\\build\\intermediates\\incremental\\mergeFreeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Nanoux\\.gradle\\caches\\transforms-1\\files-1.1\\preference-1.0.0.aar\\37130c83d835ba2f59d068bad85f1475\\res\\values-v21\\values-v21.xml",
@@ -59,25 +59,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Nanoux\\Desktop\\Nanowheel\\app\\src\\main\\res\\values-v21\\styles.xml",
-                    "from": {
-                        "startLines": "24,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "1191,59",
-                        "endLines": "43,22",
-                        "endColumns": "12,12",
-                        "endOffsets": "2317,1183"
-                    },
-                    "to": {
-                        "startLines": "7,27",
-                        "startColumns": "4,4",
-                        "startOffsets": "418,1530",
-                        "endLines": "26,46",
-                        "endColumns": "12,12",
-                        "endOffsets": "1525,2635"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Nanoux\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\fc8fbc589b6cc40891072b232bf513b3\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,5,8,11",
@@ -113,6 +94,25 @@
                         "endLines": "2,3,4,5,304,305,312,316,354,359",
                         "endColumns": "103,63,66,63,115,125,125,127,12,12",
                         "endOffsets": "154,218,285,349,21659,21785,22242,22538,24590,24928"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Nanoux\\Documents\\Android\\Onewave\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "24,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "1191,59",
+                        "endLines": "43,22",
+                        "endColumns": "12,12",
+                        "endOffsets": "2317,1183"
+                    },
+                    "to": {
+                        "startLines": "7,27",
+                        "startColumns": "4,4",
+                        "startOffsets": "418,1530",
+                        "endLines": "26,46",
+                        "endColumns": "12,12",
+                        "endOffsets": "1525,2635"
                     }
                 }
             ]

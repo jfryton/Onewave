@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Nanoux\\Desktop\\Nanowheel\\app\\build\\intermediates\\incremental\\mergeProDebugResources\\merged.dir\\values-ar\\values-ar.xml",
+            "outputFile": "C:\\Users\\Nanoux\\Documents\\Android\\Onewave\\app\\build\\intermediates\\incremental\\mergeProDebugResources\\merged.dir\\values-ar\\values-ar.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Nanoux\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.1.aar\\2589aee1c6e82983a0281c39eb7d0297\\res\\values-ar\\values-ar.xml",

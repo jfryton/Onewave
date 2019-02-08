@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Nanowheel.iml" filepath="$PROJECT_DIR$/Nanowheel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Onewave.iml" filepath="$PROJECT_DIR$/Onewave.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

@@ -1,11 +1,11 @@
 #Internal package file, do not edit.
-#Fri Feb 08 02:25:05 MST 2019
-1.base=C\:\\Users\\Nanoux\\Desktop\\Nanowheel\\app\\build\\intermediates\\dex\\freeDebug\\mergeExtDexFreeDebug\\out
+#Fri Feb 08 02:50:26 MST 2019
+1.base=C\:\\Users\\Nanoux\\Documents\\Android\\Onewave\\app\\build\\intermediates\\dex\\freeDebug\\mergeProjectDexFreeDebug\\out
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
 count=2
 1.set=DEX
 0.path=classes.dex
 0.set=DEX
-0.base=C\:\\Users\\Nanoux\\Desktop\\Nanowheel\\app\\build\\intermediates\\dex\\freeDebug\\mergeProjectDexFreeDebug\\out
+0.base=C\:\\Users\\Nanoux\\Documents\\Android\\Onewave\\app\\build\\intermediates\\dex\\freeDebug\\mergeExtDexFreeDebug\\out
 1.path=classes.dex
