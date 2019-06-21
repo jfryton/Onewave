@@ -1,0 +1,4 @@
+#Thu Jun 20 20:42:57 MDT 2019
+base.0=/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/build/intermediates/dex/proRelease/mergeDexProRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

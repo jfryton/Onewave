@@ -1,0 +1,7 @@
+#Thu Jun 20 20:16:42 MDT 2019
+base.0=/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/build/intermediates/dex/proDebug/mergeExtDexProDebug/out/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/build/intermediates/dex/proDebug/mergeProjectDexProDebug/out/classes.dex

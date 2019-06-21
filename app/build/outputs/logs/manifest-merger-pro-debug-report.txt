@@ -1,0 +1,471 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:2:1-50:12
+MERGED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:2:1-50:12
+MERGED from [androidx.databinding:databinding-adapters:3.5.0-beta04] /home/nanoux/.gradle/caches/transforms-2/files-2.1/2a52699db1f4df7a7d85ffef8ebce530/databinding-adapters-3.5.0-beta04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.5.0-beta04] /home/nanoux/.gradle/caches/transforms-2/files-2.1/a087ca3777a6ae0ec3080534ef263aee/databinding-runtime-3.5.0-beta04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nanoux/.gradle/caches/transforms-2/files-2.1/c480f6d516f74bc1ed19edbf042d59c7/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.preference:preference:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/9580b300eefdb8077e544f1b64a6c77d/preference-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/9da943fae0dacd604e26bed2066851c1/play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/5098181d120c08516faeda2901c9d3ca/play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.1.0-alpha07] /home/nanoux/.gradle/caches/transforms-2/files-2.1/688566756ea466bfe046cfb4a04cdc30/material-1.1.0-alpha07/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.1.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/5be438db04600c707bb2532486ba9dfa/room-runtime-2.1.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/f83effa9e21c4f8ffd094852976ec97e/lifecycle-extensions-2.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-beta01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/b6695c7cb1680c568f709ee86fd68a4d/appcompat-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/6a8e3ff80257626b70d69c456ffacd71/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/33a9fcae192ef93be92c07f8deb5cfd1/play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/935d879320c989a3083d4047732fa818/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/f845b2569796e3e06de052001a7b295c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha04] /home/nanoux/.gradle/caches/transforms-2/files-2.1/6fe17b09c7e106cf0fccd35d0d0419dd/viewpager2-1.0.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-beta01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/0f53d8d43748ec1b04c2e4e4606a946f/fragment-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/cea45e3b3736ea399b6747f0540287a0/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/9cf989aeae06a036c6c65cb079642437/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/d4fb8bc1554255835825f7742e6c18a1/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-beta01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/c91afa6ec32f471785bac5e6ed9ba3c7/activity-1.0.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-beta01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/bf4113311b754317c8254362349e4447/lifecycle-viewmodel-2.1.0-beta01/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.1] /home/nanoux/.gradle/caches/transforms-2/files-2.1/7b4b6d9b630fd7a10c94cc85d4c326d8/jetified-volley-1.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview-selection:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/650ae8f73051b2e601759115bc0310f7/recyclerview-selection-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha05] /home/nanoux/.gradle/caches/transforms-2/files-2.1/41877bdacd2ec6a44c42e307aef593c3/recyclerview-1.1.0-alpha05/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.lzyzsd:circleprogress:1.2.1] /home/nanoux/.gradle/caches/transforms-2/files-2.1/88a93718d86f2289bf68519f25eee0e3/circleprogress-1.2.1/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/a4105b85bf9e42f3ed112a38cd92312d/lifecycle-process-2.0.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/2715fe883638a489478f7ac378473d4e/lifecycle-service-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/61f7c514cecb95704edcef9abbde56f9/coordinatorlayout-1.1.0-alpha01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] /home/nanoux/.gradle/caches/transforms-2/files-2.1/e9ae350da066ee2d8b34e079de9fbff1/transition-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-beta01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/a4d249f2803575b4d5251bfd10822df6/appcompat-resources-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/ee4ad00cbf90014a3d403b849cc17e71/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/1c84dab380ec324c5ff530c35dcd71ca/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/4f78c3b138b33586735987cd2b4d51a6/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/d0b187af0a26c1177e7dd089fc600424/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/d029d124b565de142a6bc3c82bbc977d/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/cba461347d64d2f3fdf42ee4778b7e59/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-beta02] /home/nanoux/.gradle/caches/transforms-2/files-2.1/e768f9cb716a2db0f4b25365f4f219ce/vectordrawable-animated-1.1.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-beta02] /home/nanoux/.gradle/caches/transforms-2/files-2.1/b6a40cfec755e7e35f4f41c2d2017c59/vectordrawable-1.1.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0-rc01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/f7ab9bb520fdcbbbcd941a641502a23b/core-1.1.0-rc01/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-beta01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/e926354fdaa9d5d0f06c248bd265330d/lifecycle-runtime-2.1.0-beta01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/4946a07511ff4eebc6938839fb773cd1/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/18e4c3c4e1ea0f2fa9d7390cb7d3b9e3/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/nanoux/.gradle/caches/transforms-2/files-2.1/8e68c712ca97322afcddf624d40ad183/sqlite-framework-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/nanoux/.gradle/caches/transforms-2/files-2.1/0191f47cec1b79ba57fce22647563eaf/sqlite-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/7fa3623e7bd6237b7893851c44fb2152/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/dddf5cb63a54f0fee5a520332832e537/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /home/nanoux/.gradle/caches/transforms-2/files-2.1/77b78b42095c87287a4974d538c2d94e/core-runtime-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/54da56859a26e91545c87aa57d92eda4/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/5c9f705e4ac8a60245acd241ce6f9c6b/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/628e988ce846dce81b1775072e5c0209/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/59acd646111054d31dec8edecc994ba7/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/d017330014fef3970073c934b099b890/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/2928f25b1d8fc87f672be00074c14b0a/savedstate-1.0.0-beta01/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:2:1-134:12
+INJECTED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:2:1-134:12
+INJECTED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:2:1-134:12
+	package
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:4:5-45
+		INJECTED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.bluetooth_le
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:6:5-8:35
+MERGED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:6:5-8:35
+MERGED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:6:5-8:35
+	android:required
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:8:9-32
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:7:9-53
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:10:5-68
+MERGED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:10:5-68
+MERGED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:11:5-74
+MERGED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:11:5-74
+MERGED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:11:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:12:5-81
+MERGED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:12:5-81
+MERGED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:13:5-79
+MERGED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:13:5-79
+MERGED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:14:5-77
+MERGED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:14:5-77
+MERGED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:14:5-77
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:14:22-74
+uses-permission#android.permission.INTERNET
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/9da943fae0dacd604e26bed2066851c1/play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/9da943fae0dacd604e26bed2066851c1/play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:15:22-64
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:16:22-76
+application
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:18:5-48:19
+MERGED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:18:5-48:19
+MERGED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:18:5-48:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nanoux/.gradle/caches/transforms-2/files-2.1/c480f6d516f74bc1ed19edbf042d59c7/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nanoux/.gradle/caches/transforms-2/files-2.1/c480f6d516f74bc1ed19edbf042d59c7/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/9da943fae0dacd604e26bed2066851c1/play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/9da943fae0dacd604e26bed2066851c1/play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/5098181d120c08516faeda2901c9d3ca/play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/5098181d120c08516faeda2901c9d3ca/play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha07] /home/nanoux/.gradle/caches/transforms-2/files-2.1/688566756ea466bfe046cfb4a04cdc30/material-1.1.0-alpha07/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha07] /home/nanoux/.gradle/caches/transforms-2/files-2.1/688566756ea466bfe046cfb4a04cdc30/material-1.1.0-alpha07/AndroidManifest.xml:22:5-20
+MERGED from [androidx.room:room-runtime:2.1.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/5be438db04600c707bb2532486ba9dfa/room-runtime-2.1.0/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.1.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/5be438db04600c707bb2532486ba9dfa/room-runtime-2.1.0/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/f83effa9e21c4f8ffd094852976ec97e/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/f83effa9e21c4f8ffd094852976ec97e/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/6a8e3ff80257626b70d69c456ffacd71/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/6a8e3ff80257626b70d69c456ffacd71/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/33a9fcae192ef93be92c07f8deb5cfd1/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/33a9fcae192ef93be92c07f8deb5cfd1/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/935d879320c989a3083d4047732fa818/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/935d879320c989a3083d4047732fa818/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/f845b2569796e3e06de052001a7b295c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/f845b2569796e3e06de052001a7b295c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.volley:volley:1.1.1] /home/nanoux/.gradle/caches/transforms-2/files-2.1/7b4b6d9b630fd7a10c94cc85d4c326d8/jetified-volley-1.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /home/nanoux/.gradle/caches/transforms-2/files-2.1/7b4b6d9b630fd7a10c94cc85d4c326d8/jetified-volley-1.1.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/a4105b85bf9e42f3ed112a38cd92312d/lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/a4105b85bf9e42f3ed112a38cd92312d/lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.core:core:1.1.0-rc01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/f7ab9bb520fdcbbbcd941a641502a23b/core-1.1.0-rc01/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/f7ab9bb520fdcbbbcd941a641502a23b/core-1.1.0-rc01/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/4946a07511ff4eebc6938839fb773cd1/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/4946a07511ff4eebc6938839fb773cd1/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/f7ab9bb520fdcbbbcd941a641502a23b/core-1.1.0-rc01/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:20:9-41
+	android:roundIcon
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:21:9-59
+	tools:ignore
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:23:9-48
+	android:icon
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:19:9-48
+	android:allowBackup
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:22:9-48
+activity#com.nanowheel.nanoux.nanowheel.BubbleActivity
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:24:9-28:20
+	android:resizeableActivity
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:27:13-46
+	android:documentLaunchMode
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:26:13-48
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:24:19-49
+	android:allowEmbedded
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:25:13-41
+activity#com.nanowheel.nanoux.nanowheel.SplashActivity
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:29:9-35:20
+MERGED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:29:9-35:20
+MERGED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:29:9-35:20
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:29:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:33:27-74
+activity#com.nanowheel.nanoux.nanowheel.MainActivity
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:36:9-59
+MERGED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:36:9-59
+MERGED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:36:9-59
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:36:19-47
+service#com.nanowheel.nanoux.nanowheel.util.BluetoothService
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:38:9-40:72
+MERGED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:38:9-40:72
+MERGED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:38:9-40:72
+	android:permission
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:40:13-69
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:39:13-50
+receiver#com.nanowheel.nanoux.nanowheel.util.BroadcastReciever
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:42:9-47:20
+MERGED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:42:9-47:20
+MERGED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:42:9-47:20
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:42:19-57
+intent-filter#action:name:com.nanowheel.nanoux.nanowheel.BLUETOOTH_CANCEL+action:name:com.nanowheel.nanoux.nanowheel.LIGHTS
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:43:13-46:29
+action#com.nanowheel.nanoux.nanowheel.BLUETOOTH_CANCEL
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:44:17-90
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:44:25-87
+action#com.nanowheel.nanoux.nanowheel.LIGHTS
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:45:17-80
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:45:25-77
+uses-sdk
+INJECTED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml
+INJECTED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.5.0-beta04] /home/nanoux/.gradle/caches/transforms-2/files-2.1/2a52699db1f4df7a7d85ffef8ebce530/databinding-adapters-3.5.0-beta04/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.5.0-beta04] /home/nanoux/.gradle/caches/transforms-2/files-2.1/2a52699db1f4df7a7d85ffef8ebce530/databinding-adapters-3.5.0-beta04/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.5.0-beta04] /home/nanoux/.gradle/caches/transforms-2/files-2.1/a087ca3777a6ae0ec3080534ef263aee/databinding-runtime-3.5.0-beta04/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.5.0-beta04] /home/nanoux/.gradle/caches/transforms-2/files-2.1/a087ca3777a6ae0ec3080534ef263aee/databinding-runtime-3.5.0-beta04/AndroidManifest.xml:22:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nanoux/.gradle/caches/transforms-2/files-2.1/c480f6d516f74bc1ed19edbf042d59c7/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nanoux/.gradle/caches/transforms-2/files-2.1/c480f6d516f74bc1ed19edbf042d59c7/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.preference:preference:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/9580b300eefdb8077e544f1b64a6c77d/preference-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/9580b300eefdb8077e544f1b64a6c77d/preference-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/9da943fae0dacd604e26bed2066851c1/play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/9da943fae0dacd604e26bed2066851c1/play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/5098181d120c08516faeda2901c9d3ca/play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/5098181d120c08516faeda2901c9d3ca/play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha07] /home/nanoux/.gradle/caches/transforms-2/files-2.1/688566756ea466bfe046cfb4a04cdc30/material-1.1.0-alpha07/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha07] /home/nanoux/.gradle/caches/transforms-2/files-2.1/688566756ea466bfe046cfb4a04cdc30/material-1.1.0-alpha07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/5be438db04600c707bb2532486ba9dfa/room-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.1.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/5be438db04600c707bb2532486ba9dfa/room-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/f83effa9e21c4f8ffd094852976ec97e/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/f83effa9e21c4f8ffd094852976ec97e/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-beta01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/b6695c7cb1680c568f709ee86fd68a4d/appcompat-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-beta01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/b6695c7cb1680c568f709ee86fd68a4d/appcompat-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/6a8e3ff80257626b70d69c456ffacd71/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/6a8e3ff80257626b70d69c456ffacd71/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/33a9fcae192ef93be92c07f8deb5cfd1/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/33a9fcae192ef93be92c07f8deb5cfd1/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/935d879320c989a3083d4047732fa818/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/935d879320c989a3083d4047732fa818/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/f845b2569796e3e06de052001a7b295c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/f845b2569796e3e06de052001a7b295c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha04] /home/nanoux/.gradle/caches/transforms-2/files-2.1/6fe17b09c7e106cf0fccd35d0d0419dd/viewpager2-1.0.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha04] /home/nanoux/.gradle/caches/transforms-2/files-2.1/6fe17b09c7e106cf0fccd35d0d0419dd/viewpager2-1.0.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-beta01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/0f53d8d43748ec1b04c2e4e4606a946f/fragment-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-beta01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/0f53d8d43748ec1b04c2e4e4606a946f/fragment-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/cea45e3b3736ea399b6747f0540287a0/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/cea45e3b3736ea399b6747f0540287a0/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/9cf989aeae06a036c6c65cb079642437/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/9cf989aeae06a036c6c65cb079642437/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/d4fb8bc1554255835825f7742e6c18a1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/d4fb8bc1554255835825f7742e6c18a1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-beta01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/c91afa6ec32f471785bac5e6ed9ba3c7/activity-1.0.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-beta01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/c91afa6ec32f471785bac5e6ed9ba3c7/activity-1.0.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-beta01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/bf4113311b754317c8254362349e4447/lifecycle-viewmodel-2.1.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-beta01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/bf4113311b754317c8254362349e4447/lifecycle-viewmodel-2.1.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.1] /home/nanoux/.gradle/caches/transforms-2/files-2.1/7b4b6d9b630fd7a10c94cc85d4c326d8/jetified-volley-1.1.1/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /home/nanoux/.gradle/caches/transforms-2/files-2.1/7b4b6d9b630fd7a10c94cc85d4c326d8/jetified-volley-1.1.1/AndroidManifest.xml:7:5-43
+MERGED from [androidx.recyclerview:recyclerview-selection:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/650ae8f73051b2e601759115bc0310f7/recyclerview-selection-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview-selection:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/650ae8f73051b2e601759115bc0310f7/recyclerview-selection-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha05] /home/nanoux/.gradle/caches/transforms-2/files-2.1/41877bdacd2ec6a44c42e307aef593c3/recyclerview-1.1.0-alpha05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha05] /home/nanoux/.gradle/caches/transforms-2/files-2.1/41877bdacd2ec6a44c42e307aef593c3/recyclerview-1.1.0-alpha05/AndroidManifest.xml:20:5-44
+MERGED from [com.github.lzyzsd:circleprogress:1.2.1] /home/nanoux/.gradle/caches/transforms-2/files-2.1/88a93718d86f2289bf68519f25eee0e3/circleprogress-1.2.1/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.lzyzsd:circleprogress:1.2.1] /home/nanoux/.gradle/caches/transforms-2/files-2.1/88a93718d86f2289bf68519f25eee0e3/circleprogress-1.2.1/AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/a4105b85bf9e42f3ed112a38cd92312d/lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/a4105b85bf9e42f3ed112a38cd92312d/lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/2715fe883638a489478f7ac378473d4e/lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/2715fe883638a489478f7ac378473d4e/lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/61f7c514cecb95704edcef9abbde56f9/coordinatorlayout-1.1.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/61f7c514cecb95704edcef9abbde56f9/coordinatorlayout-1.1.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /home/nanoux/.gradle/caches/transforms-2/files-2.1/e9ae350da066ee2d8b34e079de9fbff1/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /home/nanoux/.gradle/caches/transforms-2/files-2.1/e9ae350da066ee2d8b34e079de9fbff1/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-beta01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/a4d249f2803575b4d5251bfd10822df6/appcompat-resources-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-beta01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/a4d249f2803575b4d5251bfd10822df6/appcompat-resources-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/ee4ad00cbf90014a3d403b849cc17e71/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/ee4ad00cbf90014a3d403b849cc17e71/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/1c84dab380ec324c5ff530c35dcd71ca/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/1c84dab380ec324c5ff530c35dcd71ca/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/4f78c3b138b33586735987cd2b4d51a6/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/4f78c3b138b33586735987cd2b4d51a6/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/d0b187af0a26c1177e7dd089fc600424/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/d0b187af0a26c1177e7dd089fc600424/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/d029d124b565de142a6bc3c82bbc977d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/d029d124b565de142a6bc3c82bbc977d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/cba461347d64d2f3fdf42ee4778b7e59/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/cba461347d64d2f3fdf42ee4778b7e59/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-beta02] /home/nanoux/.gradle/caches/transforms-2/files-2.1/e768f9cb716a2db0f4b25365f4f219ce/vectordrawable-animated-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-beta02] /home/nanoux/.gradle/caches/transforms-2/files-2.1/e768f9cb716a2db0f4b25365f4f219ce/vectordrawable-animated-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-beta02] /home/nanoux/.gradle/caches/transforms-2/files-2.1/b6a40cfec755e7e35f4f41c2d2017c59/vectordrawable-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-beta02] /home/nanoux/.gradle/caches/transforms-2/files-2.1/b6a40cfec755e7e35f4f41c2d2017c59/vectordrawable-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/f7ab9bb520fdcbbbcd941a641502a23b/core-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/f7ab9bb520fdcbbbcd941a641502a23b/core-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-beta01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/e926354fdaa9d5d0f06c248bd265330d/lifecycle-runtime-2.1.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-beta01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/e926354fdaa9d5d0f06c248bd265330d/lifecycle-runtime-2.1.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/4946a07511ff4eebc6938839fb773cd1/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/4946a07511ff4eebc6938839fb773cd1/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/18e4c3c4e1ea0f2fa9d7390cb7d3b9e3/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/18e4c3c4e1ea0f2fa9d7390cb7d3b9e3/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/nanoux/.gradle/caches/transforms-2/files-2.1/8e68c712ca97322afcddf624d40ad183/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/nanoux/.gradle/caches/transforms-2/files-2.1/8e68c712ca97322afcddf624d40ad183/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/nanoux/.gradle/caches/transforms-2/files-2.1/0191f47cec1b79ba57fce22647563eaf/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/nanoux/.gradle/caches/transforms-2/files-2.1/0191f47cec1b79ba57fce22647563eaf/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/7fa3623e7bd6237b7893851c44fb2152/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/7fa3623e7bd6237b7893851c44fb2152/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/dddf5cb63a54f0fee5a520332832e537/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/dddf5cb63a54f0fee5a520332832e537/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /home/nanoux/.gradle/caches/transforms-2/files-2.1/77b78b42095c87287a4974d538c2d94e/core-runtime-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /home/nanoux/.gradle/caches/transforms-2/files-2.1/77b78b42095c87287a4974d538c2d94e/core-runtime-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/54da56859a26e91545c87aa57d92eda4/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/54da56859a26e91545c87aa57d92eda4/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/5c9f705e4ac8a60245acd241ce6f9c6b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/5c9f705e4ac8a60245acd241ce6f9c6b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/628e988ce846dce81b1775072e5c0209/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/628e988ce846dce81b1775072e5c0209/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/59acd646111054d31dec8edecc994ba7/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/59acd646111054d31dec8edecc994ba7/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/d017330014fef3970073c934b099b890/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/d017330014fef3970073c934b099b890/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/2928f25b1d8fc87f672be00074c14b0a/savedstate-1.0.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/2928f25b1d8fc87f672be00074c14b0a/savedstate-1.0.0-beta01/AndroidManifest.xml:20:5-44
+INJECTED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml
+INJECTED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:15:5-77
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:15:22-75
+receiver#com.nanowheel.nanoux.nanowheel.Widgets.WidgetBatteryBar
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:36:9-47:20
+	android:label
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:38:13-40
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:37:13-53
+intent-filter#action:name:android.appwidget.action.APPWIDGET_BINDSERVICE+action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:39:13-42:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:40:17-84
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:40:25-81
+action#android.appwidget.action.APPWIDGET_BINDSERVICE
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:41:17-89
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:41:25-86
+meta-data#android.appwidget.provider
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:44:13-46:70
+	android:resource
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:46:17-67
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:45:17-58
+activity#com.nanowheel.nanoux.nanowheel.Widgets.WidgetBatteryBarConfigureActivity
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:49:9-53:20
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:49:19-76
+intent-filter#action:name:android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:50:13-52:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:51:17-87
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:51:25-84
+receiver#com.nanowheel.nanoux.nanowheel.Widgets.WidgetSpeedGauge
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:65:9-75:20
+	android:label
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:67:13-40
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:66:13-53
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:68:13-70:29
+activity#com.nanowheel.nanoux.nanowheel.Widgets.WidgetSpeedGaugeConfigureActivity
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:77:9-81:20
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:77:19-76
+receiver#com.nanowheel.nanoux.nanowheel.Widgets.WidgetRangeGauge
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:83:9-93:20
+	android:label
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:85:13-40
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:84:13-53
+activity#com.nanowheel.nanoux.nanowheel.Widgets.WidgetRangeGaugeConfigureActivity
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:95:9-99:20
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:95:19-76
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:108:9-110:47
+	android:value
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:110:13-44
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:109:13-58
+uses-library#org.apache.http.legacy
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:112:9-114:40
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/9da943fae0dacd604e26bed2066851c1/play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/9da943fae0dacd604e26bed2066851c1/play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:114:13-37
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:113:13-50
+receiver#com.nanowheel.nanoux.nanowheel.Widgets.WidgetLogToggle
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:116:9-125:20
+	android:label
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:117:13-45
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:116:19-58
+activity#com.nanowheel.nanoux.nanowheel.Widgets.WidgetLogToggleConfigureActivity
+ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:127:9-131:20
+	android:name
+		ADDED from /home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:127:19-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/9da943fae0dacd604e26bed2066851c1/play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/9da943fae0dacd604e26bed2066851c1/play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/9da943fae0dacd604e26bed2066851c1/play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/9da943fae0dacd604e26bed2066851c1/play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/9da943fae0dacd604e26bed2066851c1/play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/5be438db04600c707bb2532486ba9dfa/room-runtime-2.1.0/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/5be438db04600c707bb2532486ba9dfa/room-runtime-2.1.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/5be438db04600c707bb2532486ba9dfa/room-runtime-2.1.0/AndroidManifest.xml:26:13-74
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/6a8e3ff80257626b70d69c456ffacd71/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/6a8e3ff80257626b70d69c456ffacd71/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/6a8e3ff80257626b70d69c456ffacd71/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/6a8e3ff80257626b70d69c456ffacd71/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/f845b2569796e3e06de052001a7b295c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/f845b2569796e3e06de052001a7b295c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/f845b2569796e3e06de052001a7b295c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/a4105b85bf9e42f3ed112a38cd92312d/lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/a4105b85bf9e42f3ed112a38cd92312d/lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/a4105b85bf9e42f3ed112a38cd92312d/lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/a4105b85bf9e42f3ed112a38cd92312d/lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/a4105b85bf9e42f3ed112a38cd92312d/lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79

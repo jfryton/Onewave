@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_APP_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":32,"versionName":"2.0-pro","enabled":true,"outputFile":"app-pro-release.apk","fullName":"proRelease","baseName":"pro-release"},"path":"AndroidManifest.xml","properties":{"packageId":"com.nanowheel.nanoux.nanowheel.pro","split":"","minSdkVersion":"21"}}]

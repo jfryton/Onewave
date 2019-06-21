@@ -1,0 +1,305 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.nanowheel.nanoux.nanowheel.pro"
+4    android:versionCode="32"
+5    android:versionName="2.0-pro" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-feature
+11-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:6:5-8:35
+12        android:name="android.hardware.bluetooth_le"
+12-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:7:9-53
+13        android:required="true" />
+13-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:8:9-32
+14
+15    <uses-permission android:name="android.permission.BLUETOOTH" />
+15-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:10:5-68
+15-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:10:22-65
+16    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+16-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:11:5-74
+16-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:11:22-71
+17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+17-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:12:5-81
+17-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:12:22-78
+18    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+18-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:13:5-79
+18-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:13:22-76
+19    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+19-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:14:5-77
+19-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:14:22-74
+20    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+20-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:15:5-77
+20-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:15:22-75
+21    <uses-permission android:name="android.permission.INTERNET" />
+21-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:15:5-67
+21-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:15:22-64
+22    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" /> <!-- Include required permissions for Google Maps API to run. -->
+22-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:16:5-79
+22-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:16:22-76
+23    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+23-->[com.google.android.gms:play-services-maps:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/9da943fae0dacd604e26bed2066851c1/play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+23-->[com.google.android.gms:play-services-maps:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/9da943fae0dacd604e26bed2066851c1/play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
+24
+25    <uses-feature
+25-->[com.google.android.gms:play-services-maps:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/9da943fae0dacd604e26bed2066851c1/play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+26        android:glEsVersion="0x00020000"
+26-->[com.google.android.gms:play-services-maps:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/9da943fae0dacd604e26bed2066851c1/play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+27        android:required="true" />
+27-->[com.google.android.gms:play-services-maps:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/9da943fae0dacd604e26bed2066851c1/play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+28
+29    <application
+29-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:18:5-48:19
+30        android:allowBackup="true"
+30-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:19:9-35
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.1.0-rc01] /home/nanoux/.gradle/caches/transforms-2/files-2.1/f7ab9bb520fdcbbbcd941a641502a23b/core-1.1.0-rc01/AndroidManifest.xml:24:18-86
+32        android:icon="@mipmap/ic_launcher_dark"
+32-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:19:9-48
+33        android:label="@string/app_name"
+33-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:20:9-41
+34        android:roundIcon="@mipmap/ic_launcher_dark_round"
+34-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:21:9-59
+35        android:supportsRtl="true"
+35-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:21:9-35
+36        android:theme="@style/MyTheme.DayNight" >
+36-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:22:9-48
+37        <activity android:name="com.nanowheel.nanoux.nanowheel.SplashActivity" >
+37-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:29:9-35:20
+37-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:29:19-49
+38            <intent-filter>
+38-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:30:13-34:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:31:17-69
+39-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:31:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:33:17-77
+41-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:33:27-74
+42            </intent-filter>
+43        </activity>
+44        <activity android:name="com.nanowheel.nanoux.nanowheel.MainActivity" />
+44-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:36:9-59
+44-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:36:19-47
+45
+46        <receiver
+46-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:36:9-47:20
+47            android:name="com.nanowheel.nanoux.nanowheel.Widgets.WidgetBatteryBar"
+47-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:37:13-53
+48            android:label="Battery Bar" >
+48-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:38:13-40
+49            <intent-filter>
+49-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:39:13-42:29
+50                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+50-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:40:17-84
+50-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:40:25-81
+51                <action android:name="android.appwidget.action.APPWIDGET_BINDSERVICE" />
+51-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:41:17-89
+51-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:41:25-86
+52            </intent-filter>
+53
+54            <meta-data
+54-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:44:13-46:70
+55                android:name="android.appwidget.provider"
+55-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:45:17-58
+56                android:resource="@xml/widget_battery_circle_info" />
+56-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:46:17-67
+57        </receiver>
+58
+59        <activity android:name="com.nanowheel.nanoux.nanowheel.Widgets.WidgetBatteryBarConfigureActivity" >
+59-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:49:9-53:20
+59-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:49:19-76
+60            <intent-filter>
+60-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:50:13-52:29
+61                <action android:name="android.appwidget.action.APPWIDGET_CONFIGURE" />
+61-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:51:17-87
+61-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:51:25-84
+62            </intent-filter>
+63        </activity>
+64
+65        <service
+65-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:38:9-40:72
+66            android:name="com.nanowheel.nanoux.nanowheel.util.BluetoothService"
+66-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:39:13-50
+67            android:permission="android.permission.BIND_JOB_SERVICE" />
+67-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:40:13-69
+68
+69        <receiver android:name="com.nanowheel.nanoux.nanowheel.util.BroadcastReciever" >
+69-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:42:9-47:20
+69-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:42:19-57
+70            <intent-filter>
+70-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:43:13-46:29
+71                <action android:name="com.nanowheel.nanoux.nanowheel.BLUETOOTH_CANCEL" />
+71-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:44:17-90
+71-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:44:25-87
+72                <action android:name="com.nanowheel.nanoux.nanowheel.LIGHTS" />
+72-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:45:17-80
+72-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:45:25-77
+73            </intent-filter>
+74        </receiver>
+75        <receiver
+75-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:65:9-75:20
+76            android:name="com.nanowheel.nanoux.nanowheel.Widgets.WidgetSpeedGauge"
+76-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:66:13-53
+77            android:label="Speed Gauge" >
+77-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:67:13-40
+78            <intent-filter>
+78-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:68:13-70:29
+79                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+79-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:40:17-84
+79-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:40:25-81
+80            </intent-filter>
+81
+82            <meta-data
+82-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:44:13-46:70
+83                android:name="android.appwidget.provider"
+83-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:45:17-58
+84                android:resource="@xml/widget_speed_gauge_info" />
+84-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:46:17-67
+85        </receiver>
+86
+87        <activity android:name="com.nanowheel.nanoux.nanowheel.Widgets.WidgetSpeedGaugeConfigureActivity" >
+87-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:77:9-81:20
+87-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:77:19-76
+88            <intent-filter>
+88-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:50:13-52:29
+89                <action android:name="android.appwidget.action.APPWIDGET_CONFIGURE" />
+89-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:51:17-87
+89-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:51:25-84
+90            </intent-filter>
+91        </activity>
+92
+93        <receiver
+93-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:83:9-93:20
+94            android:name="com.nanowheel.nanoux.nanowheel.Widgets.WidgetRangeGauge"
+94-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:84:13-53
+95            android:label="Range Gauge" >
+95-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:85:13-40
+96            <intent-filter>
+96-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:68:13-70:29
+97                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+97-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:40:17-84
+97-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:40:25-81
+98            </intent-filter>
+99
+100            <meta-data
+100-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:44:13-46:70
+101                android:name="android.appwidget.provider"
+101-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:45:17-58
+102                android:resource="@xml/widget_range_gauge_info" />
+102-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:46:17-67
+103        </receiver>
+104
+105        <activity android:name="com.nanowheel.nanoux.nanowheel.Widgets.WidgetRangeGaugeConfigureActivity" >
+105-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:95:9-99:20
+105-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:95:19-76
+106            <intent-filter>
+106-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:50:13-52:29
+107                <action android:name="android.appwidget.action.APPWIDGET_CONFIGURE" />
+107-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:51:17-87
+107-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:51:25-84
+108            </intent-filter>
+109        </activity>
+110        <!--
+111             The API key for Google Maps-based APIs is defined as a string resource.
+112             (See the file "res/values/google_maps_api.xml").
+113             Note that the API key is linked to the encryption key used to sign the APK.
+114             You need a different API key for each encryption key, including the release key that is used to
+115             sign the APK for publishing.
+116             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+117        -->
+118        <meta-data
+118-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:108:9-110:47
+119            android:name="com.google.android.geo.API_KEY"
+119-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:109:13-58
+120            android:value="@string/api_key" />
+120-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:110:13-44
+121
+122        <uses-library
+122-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:112:9-114:40
+123            android:name="org.apache.http.legacy"
+123-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:113:13-50
+124            android:required="false" />
+124-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:114:13-37
+125
+126        <receiver
+126-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:116:9-125:20
+127            android:name="com.nanowheel.nanoux.nanowheel.Widgets.WidgetLogToggle"
+127-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:116:19-58
+128            android:label="Log Trips Toggle" >
+128-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:117:13-45
+129            <intent-filter>
+129-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:68:13-70:29
+130                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+130-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:40:17-84
+130-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:40:25-81
+131            </intent-filter>
+132
+133            <meta-data
+133-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:44:13-46:70
+134                android:name="android.appwidget.provider"
+134-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:45:17-58
+135                android:resource="@xml/widget_log_toggle_info" />
+135-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:46:17-67
+136        </receiver>
+137
+138        <activity android:name="com.nanowheel.nanoux.nanowheel.Widgets.WidgetLogToggleConfigureActivity" >
+138-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:127:9-131:20
+138-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:127:19-75
+139            <intent-filter>
+139-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:50:13-52:29
+140                <action android:name="android.appwidget.action.APPWIDGET_CONFIGURE" />
+140-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:51:17-87
+140-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/pro/AndroidManifest.xml:51:25-84
+141            </intent-filter>
+142        </activity>
+143        <activity
+143-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:24:9-28:20
+144            android:name="com.nanowheel.nanoux.nanowheel.BubbleActivity"
+144-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:24:19-49
+145            android:allowEmbedded="true"
+145-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:25:13-41
+146            android:documentLaunchMode="always"
+146-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:26:13-48
+147            android:resizeableActivity="true" >
+147-->/home/nanoux/androidStudioProjects/Nanowheel/Nanowheel/app/src/main/AndroidManifest.xml:27:13-46
+148        </activity>
+149
+150        <service
+150-->[androidx.room:room-runtime:2.1.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/5be438db04600c707bb2532486ba9dfa/room-runtime-2.1.0/AndroidManifest.xml:25:9-27:40
+151            android:name="androidx.room.MultiInstanceInvalidationService"
+151-->[androidx.room:room-runtime:2.1.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/5be438db04600c707bb2532486ba9dfa/room-runtime-2.1.0/AndroidManifest.xml:26:13-74
+152            android:exported="false" />
+152-->[androidx.room:room-runtime:2.1.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/5be438db04600c707bb2532486ba9dfa/room-runtime-2.1.0/AndroidManifest.xml:27:13-37
+153
+154        <activity
+154-->[com.google.android.gms:play-services-base:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/6a8e3ff80257626b70d69c456ffacd71/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+155            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+155-->[com.google.android.gms:play-services-base:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/6a8e3ff80257626b70d69c456ffacd71/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+156            android:exported="false"
+156-->[com.google.android.gms:play-services-base:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/6a8e3ff80257626b70d69c456ffacd71/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+157            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+157-->[com.google.android.gms:play-services-base:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/6a8e3ff80257626b70d69c456ffacd71/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+158
+159        <meta-data
+159-->[com.google.android.gms:play-services-basement:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/f845b2569796e3e06de052001a7b295c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+160            android:name="com.google.android.gms.version"
+160-->[com.google.android.gms:play-services-basement:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/f845b2569796e3e06de052001a7b295c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+161            android:value="@integer/google_play_services_version" />
+161-->[com.google.android.gms:play-services-basement:17.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/f845b2569796e3e06de052001a7b295c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+162
+163        <provider
+163-->[androidx.lifecycle:lifecycle-process:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/a4105b85bf9e42f3ed112a38cd92312d/lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+164            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+164-->[androidx.lifecycle:lifecycle-process:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/a4105b85bf9e42f3ed112a38cd92312d/lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79
+165            android:authorities="com.nanowheel.nanoux.nanowheel.pro.lifecycle-process"
+165-->[androidx.lifecycle:lifecycle-process:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/a4105b85bf9e42f3ed112a38cd92312d/lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+166            android:exported="false"
+166-->[androidx.lifecycle:lifecycle-process:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/a4105b85bf9e42f3ed112a38cd92312d/lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+167            android:multiprocess="true" />
+167-->[androidx.lifecycle:lifecycle-process:2.0.0] /home/nanoux/.gradle/caches/transforms-2/files-2.1/a4105b85bf9e42f3ed112a38cd92312d/lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+168    </application>
+169
+170</manifest>
