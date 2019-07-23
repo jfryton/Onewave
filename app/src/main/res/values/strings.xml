@@ -18,14 +18,14 @@
     <string name="pint_disclaimer_text">This app is totally untested on the new Pint boards, and will be for a while until I get one. This app may work, it may not. Please report any bugs/crashes and I\'ll do my best to fix them!</string>
 
     <string name="custom_shaping">Custom Shaping</string>
-    <string name="carveability">Carveability (Stabalization)</string>
+    <string name="carveability">Carveability (Side Stability)</string>
     <string name="value">value</string>
     <string name="loose">loose</string>
     <string name="tight">tight</string>
-    <string name="stance">Stance (Default Pitch)</string>
+    <string name="stance">Stance (Nose Angle)</string>
     <string name="stance_low">-1.0</string>
     <string name="stance_high">3.0</string>
-    <string name="aggressiveness">Aggressiveness (Max Speed)</string>
+    <string name="aggressiveness">Aggressiveness (Sensitivity)</string>
     <string name="slow">slow</string>
     <string name="fast">fast</string>
 
